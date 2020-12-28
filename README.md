@@ -39,7 +39,7 @@ It now hardly takes 1-2 min to do that.
 ![View window](./screenshoot/view.jpg)
 
 * Record Attendance<br>
-![About](./screenshoot/reecord.jpg)
+![Attendance Recorder](./screenshoot/record.jpg)
 
 * ContactUs<br>
   Want to use this project mail us at [mayank8199@gmail.com](mailto:mayank8199@gmail.com)
