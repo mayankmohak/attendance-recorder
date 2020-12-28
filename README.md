@@ -17,38 +17,32 @@ It makes recording attendance easy and also save time in online classes(meets),c
 
 This project is based on file handeling concept in java. The attendance scripts input by user is stored in respective files for every classes and subjects.
 
-## Need of this Project
+## :thinking: Need of this Project
 
-Curently in our online classes the attendance is recorded manually which was very much time taking and also very much old fashioned.
+Curently in our online classes The Attendance is recorded manually which is very much time taking and also very much old fashioned.
 
-## Solution
+## :heavy_check_mark: Solution
 
-We came up with a solution that all attendies of the class have to text "hi" in the chat box, which Teacher can collect and copy paste in our software and the attendence will we recorded. Thats it.
+We came up with a solution that all attendies of the class have to text "hi" in the chat box, which Teacher can copy & paste in our software and the attendence will we recorded. Thats it.
 It now hardly takes 1-2 min to do that.
 
 ## :computer: Technologies used here:
   - Framework: [spring](https://www.javatpoint.com/spring-tutorial)
-  - AWT Abstract Windowing Toolkit in JAVA
+  - [AWT](https://www.javatpoint.com/java-awt) Abstract Windowing Toolkit in JAVA
   - File Handeling in JAVA
 
 ## :camera_flash: Screenshots
-* Home
-![Home](./screenshoot/home.jpg)
-  Acknowledgement: [Mayank Mohak](https://github.com/mayankmohak)
+* Home<br>
+![Home](./screenshoot/main.jpg)
   
-* Admin Panel
-![Admin](./screenshoot/admin.jpg)
+* View Attendance<br>
+![View window](./screenshoot/view.jpg)
 
-* About
-![About](./screenshoot/aboutus.jpg)
+* Record Attendance<br>
+![About](./screenshoot/reecord.jpg)
 
-
-* ContactUs
-![CONTACT_US](./screenshoot/contact.jpg)
-  Want to use this project mail us at mayank8199@gmail.com
-
-* Students view page
-![QUERY_RESULT](./screenshoot/viewer.jpg)
+* ContactUs<br>
+  Want to use this project mail us at [mayank8199@gmail.com](mailto:mayank8199@gmail.com)
 
 
 
