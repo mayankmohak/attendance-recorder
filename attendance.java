@@ -20,7 +20,7 @@ public class attendance
 		JFrame mainframe=new JFrame("ATTENDANCE RECORDER");
 
 		//Logo
-		JLabel ico = new JLabel(new ImageIcon("giet.png"));
+		JLabel ico = new JLabel(new ImageIcon("img/giet.png"));
 		mainframe.add(ico);
 		ico.setBounds(10,10,100,100);
 
