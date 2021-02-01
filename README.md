@@ -13,9 +13,9 @@
 
 ## ❓ What is this project about?
 
-It makes recording attendance easy and also save time in online classes(meets),company meet, seminars very eaisly, with few clicks.
+It makes recording attendance easy and also save time in online classes (meets), company meetings, seminars very easily, with few clicks.
 
-This project is based on file handeling concept in java. The attendance scripts input by user is stored in respective files for every classes and subjects.
+This project is based on file handling concept in java. The attendance scripts input by user is stored in respective files for every classes and subjects.
 
 ## :thinking: Need of this Project
 
@@ -23,13 +23,13 @@ Curently in our online classes The Attendance is recorded manually which is very
 
 ## :heavy_check_mark: Solution
 
-We came up with a solution that all attendies of the class have to text "hi" in the chat box, which Teacher can copy & paste in our software and the attendence will we recorded. Thats it.
+We came up with a solution that all attendees of the class have to text "hi" in the chat box, which Teacher can copy & paste in our software and the attendance will we recorded. That’s it.
 It now hardly takes 1-2 min to do that.
 
 ## :computer: Technologies used here:
   - Framework: [spring](https://www.javatpoint.com/spring-tutorial)
   - [AWT](https://www.javatpoint.com/java-awt) Abstract Windowing Toolkit in JAVA
-  - File Handeling in JAVA
+  - File Handling in JAVA
 
 ## :camera_flash: Screenshots
 * Home<br>
@@ -41,7 +41,7 @@ It now hardly takes 1-2 min to do that.
 * Record Attendance<br>
 ![Attendance Recorder](./screenshoot/record.jpg)
 
-* ContactUs<br>
+* Contact Us<br>
   Want to use this project mail us at [mayank8199@gmail.com](mailto:mayank8199@gmail.com)
 
 
@@ -55,7 +55,7 @@ It now hardly takes 1-2 min to do that.
 Comments and improvements are more than welcome!
 
 Feel free to fork and open a pull request.
->note: please open an issue before making pr as a good practice of open source.
+>note: please open an issue before making PR as a good practice of open source.
 
 ## 🙌 Show your support
 
