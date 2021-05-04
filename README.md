@@ -27,7 +27,7 @@ We came up with a solution that all attendees of the class have to text "hi" in 
 It now hardly takes 1-2 min to do that.
 
 ## :computer: Technologies used here:
-  - Framework: [spring](https://www.javatpoint.com/spring-tutorial)
+  - Framework: [swing](https://www.javatpoint.com/swing-tutorial)
   - [AWT](https://www.javatpoint.com/java-awt) Abstract Windowing Toolkit in JAVA
   - File Handling in JAVA
 
@@ -47,8 +47,17 @@ It now hardly takes 1-2 min to do that.
 
 
 ## :computer: How to run this Project
-  - Download and Unzip file on your local system
-  - Open terminal Run command "javac attendance.java && java attendance"
+  
+  - **Method 1**
+    - Download and Unzip file on your local system
+    - Move to The Directory
+    - Open terminal Run command "javac attendance.java && java attendance"
+ 
+  - **Method 2**
+    - Download and Unzip file on your local system
+    - Move to The Directory
+    - command : "jar cfvm attendance.jar attendance.mf *.class img"
+    more about making jar files [here](https://docs.oracle.com/javase/tutorial/deployment/jar/build.html)
   
   
 ## 🤝 Contributing
